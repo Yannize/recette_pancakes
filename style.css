@@ -37,10 +37,13 @@ body {
 }
 
 .astuce {
-  background: #FED48A;
+  background: #248DD9;
   text-align: center;
   margin: 20px auto;
+  border-radius: 7px;
   width: 95%;
+  color: white;
+  letter-spacing: 1px;
 }
 
 .container {
